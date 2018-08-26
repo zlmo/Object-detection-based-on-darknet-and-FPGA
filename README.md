@@ -7,4 +7,4 @@ FPGA: FA510Q
 Memory: 1.5T SSD and 6T HD
 ## Implementation details
 This project is still under constructing, please refer to the technical report for more information:
-Object-detection-based-on-darknet-and-FPGA/darknet+FPGA.pdf
+https://github.com/zlmo/Object-detection-based-on-darknet-and-FPGA/blob/master/darknet%2BFPGA.pdf
